@@ -1,0 +1,11 @@
+.jumbotron {
+    height: 110px; /* Increase the height as desired */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .display-4 {
+    font-size: 2rem; /* Decrease the font size as desired */
+  }
+  
