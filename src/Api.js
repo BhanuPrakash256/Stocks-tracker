@@ -86,8 +86,6 @@
 
 
 
-
-
 import React, { useEffect, useState } from 'react';
 import Navs from './Navs';
 
