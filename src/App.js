@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Api from './Api';
 // import Navs from './Navs';
+import SearchBar from './Search';
 
 class App extends React.Component {
   render() {
@@ -13,12 +14,16 @@ class App extends React.Component {
 </div>
 
 <div className="container-fluid p-0 rounded-0">
-  <div className="card text-blue rounded-0" >
+  <div className="card text-info  rounded-0" >
     <div className="card-body">
       <h2 className="card-title text-center">Stock Tracker</h2>
     </div>
   </div>
 </div>
+
+<div>
+      <SearchBar />
+    </div>
 
 
       <div>
