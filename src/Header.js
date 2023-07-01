@@ -1,5 +1,7 @@
 import React from 'react';
 import './Header.css'; // Import CSS file for styling
+// import  './Allstyles.css'
+import SearchBar from './SearchBar';
 
 const Header = () => {
   return (
@@ -9,25 +11,7 @@ const Header = () => {
       </div>
 
       <div className="header-container">
-      <div className="search-bar shadow-lg bg-body rounded">
-          <div className="input-group">
-            <input
-              type="search"
-              placeholder="What're you searching for?"
-              aria-describedby="button-addon1"
-              className="form-control border-0 bg-light"
-            />
-            <div className="input-group-append">
-              <button
-                id="button-addon1"
-                type="submit"
-                className="btn btn-link text-primary"
-              >
-                <i className="fa-solid fa-magnifying-glass"></i>
-              </button>
-            </div>
-          </div>
-        </div>
+      <SearchBar></SearchBar>
       </div>
     </header>
   );

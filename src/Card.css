@@ -1,0 +1,24 @@
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 3fr; /* Adjust the width ratio as per your needs */
+    /* grid-gap: 20px; */
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 20px;
+
+  }
+  
+  .details-card {
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 5px;
+    height: 100%; /* Use relative height */
+  }
+  
+  .graph-card {
+    background-color: transparent;
+    padding: 5px;
+    border-radius: 5px;
+    height: 100%; /* Use relative height */
+  }
+  

@@ -1,564 +1,112 @@
 {
-    "data": [
-      {
-        "Symbol": "AAPL",
-        "Name": "Apple Inc."
-      },
-      {
-        "Symbol": "ACN",
-        "Name": "Accenture plc"
-      },
-      {
-        "Symbol": "ADBE",
-        "Name": "Adobe Inc."
-      },
-      {
-        "Symbol": "ADI",
-        "Name": "Analog Devices Inc."
-      },
-      {
-        "Symbol": "ADP",
-        "Name": "Automatic Data Processing Inc."
-      },
-      {
-        "Symbol": "ADSK",
-        "Name": "Autodesk Inc."
-      },
-      {
-        "Symbol": "AMAT",
-        "Name": "Applied Materials Inc."
-      },
-      {
-        "Symbol": "AMD",
-        "Name": "Advanced Micro Devices Inc."
-      },
-      {
-        "Symbol": "ANET",
-        "Name": "Arista Networks Inc."
-      },
-      {
-        "Symbol": "APH",
-        "Name": "Amphenol Corporation"
-      },
-      {
-        "Symbol": "ASML",
-        "Name": "ASML Holding N.V."
-      },
-      {
-        "Symbol": "ASX",
-        "Name": "ASE Technology Holding Co. Ltd."
-      },
-      {
-        "Symbol": "ATVI",
-        "Name": "Activision Blizzard Inc."
-      },
-      {
-        "Symbol": "AVGO",
-        "Name": "Broadcom Inc."
-      },
-      {
-        "Symbol": "AZPN",
-        "Name": "Aspen Technology Inc."
-      },
-      {
-        "Symbol": "BIDU",
-        "Name": "Baidu Inc."
-      },
-      {
-        "Symbol": "BILL",
-        "Name": "BILL Holdings Inc."
-      },
-      {
-        "Symbol": "BSY",
-        "Name": "Bentley Systems Incorporated"
-      },
-      {
-        "Symbol": "CDAY",
-        "Name": "Ceridian HCM Holding Inc."
-      },
-      {
-        "Symbol": "CDNS",
-        "Name": "Cadence Design Systems Inc."
-      },
-      {
-        "Symbol": "CFLT",
-        "Name": "Confluent Inc."
-      },
-      {
-        "Symbol": "CHKP",
-        "Name": "Check Point Software Technologies Ltd."
-      },
-      {
-        "Symbol": "CRM",
-        "Name": "Salesforce Inc."
-      },
-      {
-        "Symbol": "CRWD",
-        "Name": "CrowdStrike Holdings Inc."
-      },
-      {
-        "Symbol": "CTSH",
-        "Name": "Cognizant Technology Solutions Corporation"
-      },
-      {
-        "Symbol": "DDOG",
-        "Name": "Datadog Inc."
-      },
-      {
-        "Symbol": "DELL",
-        "Name": "Dell Technologies Inc."
-      },
-      {
-        "Symbol": "DOCU",
-        "Name": "DocuSign Inc."
-      },
-      {
-        "Symbol": "DOX",
-        "Name": "Amdocs Limited"
-      },
-      {
-        "Symbol": "DT",
-        "Name": "Dynatrace Inc."
-      },
-      {
-        "Symbol": "EA",
-        "Name": "Electronic Arts Inc."
-      },
-      {
-        "Symbol": "EMR",
-        "Name": "Emerson Electric Company"
-      },
-      {
-        "Symbol": "ENPH",
-        "Name": "Enphase Energy Inc."
-      },
-      {
-        "Symbol": "EPAM",
-        "Name": "EPAM Systems Inc."
-      },
-      {
-        "Symbol": "ERIC",
-        "Name": "Ericsson"
-  
-  
-      },
-      {
-        "Symbol": "ETN",
-        "Name": "Eaton Corporation PLC"
-      },
-      {
-        "Symbol": "FDS",
-        "Name": "FactSet Research Systems Inc."
-      },
-      {
-        "Symbol": "FLEX",
-        "Name": "Flex Ltd."
-      },
-      {
-        "Symbol": "FSLR",
-        "Name": "First Solar Inc."
-      },
-      {
-        "Symbol": "FTNT",
-        "Name": "Fortinet Inc."
-      },
-      {
-        "Symbol": "GDDY",
-        "Name": "GoDaddy Inc."
-      },
-      {
-        "Symbol": "GE",
-        "Name": "General Electric Company"
-      },
-      {
-        "Symbol": "GEHC",
-        "Name": "GE HealthCare Technologies Inc."
-      },
-      {
-        "Symbol": "GEN",
-        "Name": "Gen Digital Inc."
-      },
-      {
-        "Symbol": "GFS",
-        "Name": "GlobalFoundries Inc."
-      },
-      {
-        "Symbol": "GOOG",
-        "Name": "Alphabet Inc. Class C"
-      },
-      {
-        "Symbol": "GOOGL",
-        "Name": "Alphabet Inc. Class A"
-      },
-      {
-        "Symbol": "HPE",
-        "Name": "Hewlett Packard Enterprise Company"
-      },
-      {
-        "Symbol": "HPQ",
-        "Name": "HP Inc."
-      },
-      {
-        "Symbol": "HUBB",
-        "Name": "Hubbell Inc"
-      },
-      {
-        "Symbol": "HUBS",
-        "Name": "HubSpot Inc."
-      },
-      {
-        "Symbol": "IBM",
-        "Name": "International Business Machines Corporation"
-      },
-      {
-        "Symbol": "IIVI",
-        "Name": "Coherent Corp."
-      },
-      {
-        "Symbol": "INFY",
-        "Name": "Infosys Limited"
-      },
-      {
-        "Symbol": "INTC",
-        "Name": "Intel Corporation"
-      },
-      {
-        "Symbol": "INTU",
-        "Name": "Intuit Inc."
-      },
-      {
-        "Symbol": "IOT",
-        "Name": "Samsara Inc."
-      },
-      {
-        "Symbol": "JBL",
-        "Name": "Jabil Inc."
-      },
-      {
-        "Symbol": "JKHY",
-        "Name": "Jack Henry & Associates Inc."
-      },
-      {
-        "Symbol": "KLAC",
-        "Name": "KLA Corporation"
-      },
-      {
-        "Symbol": "LDOS",
-        "Name": "Leidos Holdings Inc."
-      },
-      {
-        "Symbol": "LRCX",
-        "Name": "Lam Research Corporation"
-      },
-      {
-        "Symbol": "LSCC",
-        "Name": "Lattice Semiconductor Corporation"
-      },
-      {
-        "Symbol": "MANH",
-        "Name": "Manhattan Associates Inc."
-      },
-      {
-        "Symbol": "MCHP",
-        "Name": "Microchip Technology Incorporated"
-      },
-      {
-        "Symbol": "MDB",
-        "Name": "MongoDB Inc."
-      },
-      {
-        "Symbol": "META",
-        "Name": "Meta Platforms Inc."
-      },
-      {
-        "Symbol": "MPWR",
-        "Name": "Monolithic Power Systems Inc."
-      },
-      {
-        "Symbol": "MRVL",
-        "Name": "Marvell Technology Inc."
-      },
-      {
-        "Symbol": "MSFT",
-        "Name": "Microsoft Corporation"
-      },
-      {
-  
-  
-        "Symbol": "MSI",
-        "Name": "Motorola Solutions Inc."
-      },
-      {
-        "Symbol": "MTCH",
-        "Name": "Match Group Inc."
-      },
-      {
-        "Symbol": "MU",
-        "Name": "Micron Technology Inc."
-      },
-      {
-        "Symbol": "NEE",
-        "Name": "NextEra Energy Inc."
-      },
-      {
-        "Symbol": "NET",
-        "Name": "Cloudflare Inc."
-      },
-      {
-        "Symbol": "NICE",
-        "Name": "NICE Ltd"
-      },
-      {
-        "Symbol": "NOK",
-        "Name": "Nokia Corporation"
-      },
-      {
-        "Symbol": "NOW",
-        "Name": "ServiceNow Inc."
-      },
-      {
-        "Symbol": "NTAP",
-        "Name": "NetApp Inc."
-      },
-      {
-        "Symbol": "NTES",
-        "Name": "NetEase Inc."
-      },
-      {
-        "Symbol": "NVDA",
-        "Name": "NVIDIA Corporation"
-      },
-      {
-        "Symbol": "NXPI",
-        "Name": "NXP Semiconductors N.V."
-      },
-      {
-        "Symbol": "OKTA",
-        "Name": "Okta Inc."
-      },
-      {
-        "Symbol": "ON",
-        "Name": "ON Semiconductor Corporation"
-      },
-      {
-        "Symbol": "ORCL",
-        "Name": "Oracle Corporation"
-      },
-      {
-        "Symbol": "OTEX",
-        "Name": "Open Text Corporation"
-      },
-      {
-        "Symbol": "OTIS",
-        "Name": "Otis Worldwide Corporation"
-      },
-      {
-        "Symbol": "PANW",
-        "Name": "Palo Alto Networks Inc."
-      },
-      {
-        "Symbol": "PAYC",
-        "Name": "Paycom Software Inc."
-      },
-      {
-        "Symbol": "PINS",
-        "Name": "Pinterest Inc."
-      },
-      {
-        "Symbol": "PLTR",
-        "Name": "Palantir Technologies Inc."
-      },
-      {
-        "Symbol": "PSTG",
-        "Name": "Pure Storage Inc."
-      },
-      {
-        "Symbol": "PTC",
-        "Name": "PTC Inc."
-      },
-      {
-        "Symbol": "QCOM",
-        "Name": "QUALCOMM Incorporated"
-      },
-      {
-        "Symbol": "QRVO",
-        "Name": "Qorvo Inc."
-      },
-      {
-        "Symbol": "RBLX",
-        "Name": "Roblox Corporation"
-      },
-      {
-        "Symbol": "SABRP",
-        "Name": "Sabre Corporation"
-      },
-      {
-        "Symbol": "SAP",
-        "Name": "SAP SE"
-      },
-      {
-        "Symbol": "SATX",
-        "Name": "SatixFy Communications Ltd."
-      },
-      {
-        "Symbol": "SEDG",
-        "Name": "SolarEdge Technologies Inc."
-      },
-      {
-        "Symbol": "SMCI",
-        "Name": "Super Micro Computer Inc."
-      },
-      {
-        "Symbol": "SNAP",
-        "Name": "Snap Inc."
-      },
-      {
-        "Symbol": "SNOW",
-        "Name": "Snowflake Inc."
-      },
-      {
-        "Symbol": "SNPS",
-        "Name": "Synopsys Inc."
-      },
-      {
-        "Symbol": "SPLK",
-        "Name": "Splunk Inc."
-      },
-      {
-        "Symbol": "SQ",
-        "Name": "Block Inc."
-      },
-      {
-        "Symbol": "SSNC",
-        "Name": "SS&C Technologies Holdings Inc."
-      },
-      {
-        "Symbol": "SWKS",
-        "Name": "Skyworks Solutions Inc."
-      },
-      {
-        "Symbol": "TEAM",
-        "Name": "Atlassian Corporation Plc"
-      },
-      {
-        "Symbol": "TEL",
-        "Name": "TE Connectivity Ltd."
-      },
-      {
-        "Symbol": "TER",
-        "Name": "Teradyne Inc."
-      },
-      {
-        "Symbol": "TGT",
-        "Name": "Target Corporation"
-      },
-      {
-        "Symbol": "TMO",
-        "Name": "Thermo Fisher Scientific Inc."
-      },
-      {
-        "Symbol": "TMUS",
-        "Name": "T-Mobile US Inc."
-      },
-      {
-        "Symbol": "TREX",
-        "Name": "Trex Company Inc."
-      },
-      {
-        "Symbol": "TSLA",
-        "Name": "Tesla Inc."
-      },
-      {
-        "Symbol": "TTD",
-        "Name": "The Trade Desk Inc."
-      },
-      {
-        "Symbol": "TTWO",
-        "Name": "Take-Two Interactive Software Inc."
-      },
-      {
-        "Symbol": "TXN",
-        "Name": "Texas Instruments Incorporated"
-      },
-      {
-        "Symbol": "U",
-        "Name": "Unity Software Inc."
-      },
-      {
-        "Symbol": "UI",
-        "Name": "Ubiquiti Inc."
-      },
-      {
-        "Symbol": "ULTA",
-        "Name": "Ulta Beauty Inc."
-      },
-      {
-        "Symbol": "UMC",
-        "Name": "United Microelectronics Corporation"
-      },
-      {
-        "Symbol": "UPS",
-        "Name": "United Parcel Service Inc."
-      },
-      {
-        "Symbol": "V",
-        "Name": "Visa Inc."
-      },
-      {
-        "Symbol": "VEEV",
-        "Name": "Veeva Systems Inc."
-      },
-      {
-        "Symbol": "VICR",
-        "Name": "Vicor Corporation"
-      },
-      {
-        "Symbol": "VMW",
-        "Name": "VMware Inc."
-      },
-      {
-        "Symbol": "VRSK",
-        "Name": "Verisk Analytics Inc."
-      },
-      {
-        "Symbol": "VRSN",
-        "Name": "VeriSign Inc."
-      },
-      {
-        "Symbol": "VRTX",
-        "Name": "Vertex Pharmaceuticals Incorporated"
-      },
-      {
-        "Symbol": "WDC",
-        "Name": "Western Digital Corporation"
-      },
-      {
-        "Symbol": "WEX",
-        "Name": "WEX Inc."
-      },
-      {
-        "Symbol": "WORK",
-        "Name": "Slack Technologies Inc."
-      },
-      {
-        "Symbol": "XLNX",
-        "Name": "Xilinx Inc."
-      },
-      {
-        "Symbol": "ZBRA",
-        "Name": "Zebra Technologies Corporation"
-      },
-      {
-        "Symbol": "ZG",
-        "Name": "Zillow Group Inc."
-      },
-      {
-        "Symbol": "ZM",
-        "Name": "Zoom Video Communications Inc."
-      },
-      {
-        "Symbol": "ZS",
-        "Name": "Zscaler Inc."
-      }
-    ]
-  }
+  "Apple Inc.": "AAPL",
+  "Accenture plc": "ACN",
+  "Adobe Inc.": "ADBE",
+  "Analog Devices Inc.": "ADI",
+  "Automatic Data Processing Inc.": "ADP",
+  "Autodesk Inc.": "ADSK",
+  "Applied Materials Inc.": "AMAT",
+  "Advanced Micro Devices Inc.": "AMD",
+  "Arista Networks Inc.": "ANET",
+  "Amphenol Corporation": "APH",
+  "ASML Holding N.V.": "ASML",
+  "ASE Technology Holding Co. Ltd.": "ASX",
+  "Activision Blizzard Inc.": "ATVI",
+  "Broadcom Inc.": "AVGO",
+  "Aspen Technology Inc.": "AZPN",
+  "Baidu Inc.": "BIDU",
+  "BILL Holdings Inc.": "BILL",
+  "Bentley Systems Incorporated": "BSY",
+  "Ceridian HCM Holding Inc.": "CDAY",
+  "Cadence Design Systems Inc.": "CDNS",
+  "Confluent Inc.": "CFLT",
+  "Check Point Software Technologies Ltd.": "CHKP",
+  "Salesforce Inc.": "CRM",
+  "CrowdStrike Holdings Inc.": "CRWD",
+  "Cognizant Technology Solutions Corporation": "CTSH",
+  "Datadog Inc.": "DDOG",
+  "Dell Technologies Inc.": "DELL",
+  "DocuSign Inc.": "DOCU",
+  "Amdocs Limited": "DOX",
+  "Dynatrace Inc.": "DT",
+  "Electronic Arts Inc.": "EA",
+  "Emerson Electric Company": "EMR",
+  "Enphase Energy Inc.": "ENPH",
+  "EPAM Systems Inc.": "EPAM",
+  "Ericsson": "ERIC",
+  "Eaton Corporation PLC": "ETN",
+  "FactSet Research Systems Inc.": "FDS",
+  "Flex Ltd.": "FLEX",
+  "First Solar Inc.": "FSLR",
+  "Fortinet Inc.": "FTNT",
+  "GoDaddy Inc.": "GDDY",
+  "General Electric Company": "GE",
+  "GE HealthCare Technologies Inc.": "GEHC",
+  "Gen Digital Inc.": "GEN",
+  "GlobalFoundries Inc.": "GFS",
+  "Alphabet Inc. Class C": "GOOG",
+  "Alphabet Inc. Class A": "GOOGL",
+  "Hewlett Packard Enterprise Company": "HPE",
+  "HP Inc.": "HPQ",
+  "Hubbell Inc": "HUBB",
+  "HubSpot Inc.": "HUBS",
+  "International Business Machines Corporation": "IBM",
+  "Coherent Corp.": "IIVI",
+  "Infosys Limited": "INFY",
+  "Intel Corporation": "INTC",
+  "Intuit Inc.": "INTU",
+  "Samsara Inc.": "IOT",
+  "Jabil Inc.": "JBL",
+  "Jack Henry & Associates Inc.": "JKHY",
+  "KLA Corporation": "KLAC",
+  "Leidos Holdings Inc.": "LDOS",
+  "Lam Research Corporation": "LRCX",
+  "Lattice Semiconductor Corporation": "LSCC",
+  "Manhattan Associates Inc.": "MANH",
+  "Microchip Technology Incorporated": "MCHP",
+  "MongoDB Inc.": "MDB",
+  "Medtronic Inc.": "MDT",
+  "MercadoLibre Inc.": "MELI",
+  "Marvell Technology Group Ltd.": "MRVL",
+  "Microsoft Corporation": "MSFT",
+  "MTU Aero Engines AG": "MTU",
+  "NIKE Inc.": "NKE",
+  "NetApp Inc.": "NTAP",
+  "NVIDIA Corporation": "NVDA",
+  "NXP Semiconductors N.V.": "NXPI",
+  "Oracle Corporation": "ORCL",
+  "PayPal Holdings Inc.": "PYPL",
+  "Palantir Technologies Inc.": "PLTR",
+  "PagerDuty Inc.": "PD",
+  "Palo Alto Networks Inc.": "PANW",
+  "Pinduoduo Inc.": "PDD",
+  "Progressive Corporation": "PGR",
+  "PTC Inc.": "PTC",
+  "QUALCOMM Incorporated": "QCOM",
+  "Rockwell Automation Inc.": "ROK",
+  "RingCentral Inc.": "RNG",
+  "Roper Technologies Inc.": "ROP",
+  "Sea Limited": "SE",
+  "Shopify Inc.": "SHOP",
+  "ServiceNow Inc.": "NOW",
+  "Siemens AG": "SIEGY",
+  "Splunk Inc.": "SPLK",
+  "Square Inc.": "SQ",
+  "Skyworks Solutions Inc.": "SWKS",
+  "Symantec Corporation": "SYMC",
+  "Synopsys Inc.": "SNPS",
+  "Taiwan Semiconductor Manufacturing Company Limited": "TSM",
+  "Teradyne Inc.": "TER",
+  "Texas Instruments Incorporated": "TXN",
+  "Twilio Inc.": "TWLO",
+  "Twitter Inc.": "TWTR",
+  "Unity Software Inc.": "U",
+  "Uber Technologies Inc.": "UBER",
+  "Visa Inc.": "V",
+  "Verisk Analytics Inc.": "VRSK",
+  "VeriSign Inc.": "VRSN",
+  "Wipro Limited": "WIT",
+  "Western Digital Corporation": "WDC",
+  "Xilinx Inc.": "XLNX",
+  "Zoom Video Communications Inc.": "ZM"
+}

@@ -1,0 +1,63 @@
+/* SearchBar.css */
+.search-bar {
+    width: 100%; /* Set the desired width */
+  }
+  
+  .input-group {
+    position: relative;
+    margin: 0px ;
+  }
+  
+  .input-group .suggestions {
+    position: absolute;
+    top: 110%;
+    left: 0;
+    width: 100%;
+    max-height: 200px;
+    overflow-y: auto;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #d9d7d7;
+    opacity:.85;
+    /* border: 5px solid #0df424; */
+    /* border-top: none; */
+    
+    
+  }
+  
+  
+
+  .input-group .suggestions li {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .input-group .suggestions li:hover {
+    background-color: #9bbec95c;
+  }
+  
+
+  .input-group .clear-input{
+    border: none;
+    /* background-color:aqua; */
+    color: #666;
+    background-color: white;
+}
+.input-group .clear-input:hover {
+      color:#b12525;
+  }  
+
+
+  .search-bar {
+    /* margin-top: 20px; */
+    width: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    max-height: 40px;
+  }
+  .form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+    font-style: italic;
+  }

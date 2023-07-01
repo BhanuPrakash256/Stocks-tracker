@@ -26,9 +26,9 @@
   */
   
   body {
-    background: #ffd89b;
-    background: -webkit-linear-gradient(to right, #ffd89b, #19547b);
-    background: linear-gradient(to right, #ffd89b, #19547b);
+    background: #fbfaf9;
+    background: -webkit-linear-gradient(to right, #080808, #818384);
+    background: linear-gradient(to right, #070707, #93989b);
     min-height: 100vh;
   }
   

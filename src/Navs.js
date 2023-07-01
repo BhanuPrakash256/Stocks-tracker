@@ -20,7 +20,7 @@ const Navs = (props) => {
     return (
       <div className="container d-flex justify-content-center align-items-center">
         <div className="card bg-black w-60">
-          <div className="card-body">
+          <div className="card-body p-0">
             <ul className="nav bg-transparent nav-tabs">
               <li className="nav-item">
                 <button

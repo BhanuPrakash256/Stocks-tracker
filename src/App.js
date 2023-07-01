@@ -1,21 +1,21 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Api from './Api';
-// import Navs from './Navs';
-// import SearchBar from './Search';
+// import SearchBar from './SearchBar';
 import Header from './Header';
 class App extends React.Component {
   render() {
     return (
       <>
-<div> <Header></Header></div>
+      {/* <div> ex </div> */}
+<div> <Header/></div>
+{/* <div> <SearchBar></SearchBar></div> */}
 
-{/* <div>
-      <SearchBar />
-    </div> */}
-
+{/* 
       <div>
           <Api symbol="AMZN" />
-        </div></>
+        </div> */}
+        
+        </>
     );
   }
 }

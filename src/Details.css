@@ -1,0 +1,36 @@
+.card {
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .title {
+    background-color: black;
+    color: white;
+    padding: 20px 10px;
+    margin-bottom: 10px;
+  }
+  
+  .symbol {
+    font-weight: bold;
+  }
+  
+  .price-change {
+    font-size: 18px;
+  }
+  
+  .list-item {
+    background-color: grey;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .value {
+    font-weight: bold;
+  }
+  

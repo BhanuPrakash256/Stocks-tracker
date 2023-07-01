@@ -41,7 +41,11 @@ const Graph = (props) => {
         ]}
         layout={{
             width: 1000,
-            height: 500,
+            height: 425,
+            // width: undefined,  // Set width to undefined for responsive sizing
+            // height: undefined, // Set height to undefined for responsive sizing
+            // responsive: true,
+
             title: 'A Fancy Plot',
             xaxis: {
                 showgrid: false,
@@ -50,7 +54,13 @@ const Graph = (props) => {
                 range: [Math.min(...stockChartYValues), Math.max(...stockChartYValues)],
                 // showgrid: false,
             },
-                // paper_bgcolor: 'grey',
+            margin: {
+              l: 50,  // left margin
+              r: 50,  // right margin
+              t: 50,  // top margin
+              b: 50,  // bottom margin
+          },            
+                //  paper_bgcolor: 'grey',
                 // plot_bgcolor: 'grey'
         }}
                 config={{ displayModeBar: false }}
